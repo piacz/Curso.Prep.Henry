@@ -1,15 +1,30 @@
+
+body{
+	background-attachment: fixed;
+	background-image: url(https://d2evkimvhatqav.cloudfront.net/images/_1440x720_crop_center-center_none/friends_share_meal_table_54710710.jpg?mtime=20200708163041&focal=none&tmtime=20201215123014); 
+}
 h1{
-	color: red;
+	color: white;
+	
+}
+h3{
+	color:white;
+}
+.divClass{
+	margin-left: 30px;
+	justify-content: center;
 }
 img{
 	width: 400px;
 }
 #thirdDiv{
-	background-color: green;
+	margin-left: auto;
+	margin-right: auto;
+	background-color: #ffe4c4;
     width: 500px;
     height: 600px;
     padding: 50px;
-    border:solid red 10px;
+    border:solid #8b0000 5px;
 }
 #spanId{
 	font-size:18px;
